@@ -1,4 +1,4 @@
-package com.cwoongc.study.design_pattern;
+package com.cwoongc.study.design_pattern.builder;
 
 import com.cwoongc.study.design_pattern.builder.Something;
 import com.cwoongc.study.design_pattern.builder.SomethingLikeLombok;
