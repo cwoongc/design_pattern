@@ -1,8 +1,4 @@
-package com.cwoongc.study.design_pattern.builder;
-
-import com.cwoongc.study.design_pattern.builder.Something;
-import com.cwoongc.study.design_pattern.builder.SomethingLikeLombok;
-import com.cwoongc.study.design_pattern.builder.SomethingLombok;
+package com.cwoongc.study.design_pattern.builder_new;
 
 /**
  * 1. 빌더 제공클래스와 client간 결합도 낮춤

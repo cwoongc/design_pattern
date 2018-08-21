@@ -1,4 +1,4 @@
-package com.cwoongc.study.design_pattern.builder;
+package com.cwoongc.study.design_pattern.builder_new;
 
 import lombok.Getter;
 import lombok.NoArgsConstructor;
